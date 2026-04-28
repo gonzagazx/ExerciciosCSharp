@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\atv_condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\atv_condicionais.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\atv_condicionais.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\atv_condicionais.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\atv_condicionais.sourcelink.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\bin\Debug\net8.0\atv_condicionais.exe
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\bin\Debug\net8.0\atv_condicionais.deps.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\bin\Debug\net8.0\atv_condicionais.runtimeconfig.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\bin\Debug\net8.0\atv_condicionais.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\bin\Debug\net8.0\atv_condicionais.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\atv_condicionais.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\refint\atv_condicionais.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\atv_condicionais.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\atv_condicionais.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_condicionais\obj\Debug\net8.0\ref\atv_condicionais.dll

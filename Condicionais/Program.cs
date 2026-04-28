@@ -132,9 +132,9 @@ class Program
     // }
 
     Console.WriteLine("Digite uma opção: (A, B ou C)");
-    string opcao = Console.ReadLine().ToUpper()/*ToUpper transforma o texto em maiuscula*/;
+    string escolha = Console.ReadLine().ToUpper()/*ToUpper transforma o texto em maiuscula*/;
 
-    switch(opcao)
+    switch(escolha)
     {
         case "A":
             Console.WriteLine("Você escolheu a opção A");
@@ -150,6 +150,8 @@ class Program
                 break;
     }
 
+    Console.WriteLine("Teste git");
+    
 
     }
 }
