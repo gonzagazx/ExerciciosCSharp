@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("atv_condicionais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c54ac413ba167ff227555ccb63ef2f2913e2710")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e0c3f9271ad549fec11c43b624b8fa6309492f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("atv_condicionais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("atv_condicionais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
