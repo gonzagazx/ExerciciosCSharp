@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\bin\Debug\net8.0\atv_repeticao.exe
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\bin\Debug\net8.0\atv_repeticao.deps.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\bin\Debug\net8.0\atv_repeticao.runtimeconfig.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\bin\Debug\net8.0\atv_repeticao.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\bin\Debug\net8.0\atv_repeticao.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\atv_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\atv_repeticao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\atv_repeticao.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\atv_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\atv_repeticao.sourcelink.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\atv_repeticao.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\refint\atv_repeticao.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\atv_repeticao.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\atv_repeticao.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_repeticao\obj\Debug\net8.0\ref\atv_repeticao.dll

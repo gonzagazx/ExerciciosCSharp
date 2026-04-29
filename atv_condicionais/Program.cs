@@ -403,7 +403,7 @@ class Program
     // }
 
 //  EX7
-    Console.WriteLine("Água = 5 Reais / Refrigerante = 7 reais / Suco = 6 reais");
+    Console.WriteLine("Água = R$ 5 / Refrigerante = R$ 7  / Suco = R$ 6 ");
     Console.WriteLine("Escolha a bebida: 1 - Água, 2 - Refrigerante, 3- Suco");
     int escolha = int.Parse(Console.ReadLine());
 
