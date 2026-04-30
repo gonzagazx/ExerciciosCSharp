@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("atv_repeticao")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("funcoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213bb83f2082103ec3bf93a2c3d2d5822699fa58")]
-[assembly: System.Reflection.AssemblyProductAttribute("atv_repeticao")]
-[assembly: System.Reflection.AssemblyTitleAttribute("atv_repeticao")]
+[assembly: System.Reflection.AssemblyProductAttribute("funcoes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("funcoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

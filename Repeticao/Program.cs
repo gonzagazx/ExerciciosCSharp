@@ -55,15 +55,15 @@ class Program
         //    Console.WriteLine("contador final: "+ contador);
 
 
-        // int numero = 0;
+        int numero = 0;
 
-        // while(numero <= 0)
-        // {
-        //     Console.WriteLine("Digite um numero maior que zero: ");
-        //     numero = int.Parse(Console.ReadLine());
-        // }
+        while(numero <= 0)
+        {
+            Console.WriteLine("Digite um numero maior que zero: ");
+            numero = int.Parse(Console.ReadLine());
+        }
 
-        // Console.WriteLine("Número válido: " + numero);
+        Console.WriteLine("Número válido: " + numero);
 
 
 
@@ -109,13 +109,13 @@ class Program
         //     Console.WriteLine(nome);
         // }
 
-        int[] numeros = {2, 4, 6, 8};
-        int soma = 0;
+        // int[] numeros = {2, 4, 6, 8};
+        // int soma = 0;
 
-        foreach(int numero in numeros)
-        {
-            soma += numero;
-        }    // soma = soma + numero
-            Console.WriteLine(soma);
+        // foreach(int numero in numeros)
+        // {
+        //     soma += numero;
+        // }    // soma = soma + numero
+        //     Console.WriteLine(soma);
     }
 }
