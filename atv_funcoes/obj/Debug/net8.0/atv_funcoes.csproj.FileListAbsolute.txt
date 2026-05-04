@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\bin\Debug\net8.0\atv_funcoes.exe
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\bin\Debug\net8.0\atv_funcoes.deps.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\bin\Debug\net8.0\atv_funcoes.runtimeconfig.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\bin\Debug\net8.0\atv_funcoes.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\bin\Debug\net8.0\atv_funcoes.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\atv_funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\atv_funcoes.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\atv_funcoes.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\atv_funcoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\atv_funcoes.sourcelink.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\atv_funcoes.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\refint\atv_funcoes.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\atv_funcoes.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\atv_funcoes.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_funcoes\obj\Debug\net8.0\ref\atv_funcoes.dll
