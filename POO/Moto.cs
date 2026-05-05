@@ -8,9 +8,10 @@ namespace POO
     public class Moto : Veiculo
     {
         public bool TemPartidaEletrica;
-        public void ExibirdetalhesMoto()
+
+        public void ExibirDetalhesMoto()
         {
-            ExibirDetalhes(); // Método herdado de veiculo
+            ExibirDetalhes(); // Método herdado de veículo
             Console.WriteLine($"Partida elétrica: {TemPartidaEletrica}");
         }
     }

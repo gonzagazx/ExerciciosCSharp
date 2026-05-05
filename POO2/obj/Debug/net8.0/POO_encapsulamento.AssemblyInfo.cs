@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("POO")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("POO_encapsulamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bedc16b61c615e9364707567fce7c108dbc5835b")]
-[assembly: System.Reflection.AssemblyProductAttribute("POO")]
-[assembly: System.Reflection.AssemblyTitleAttribute("POO")]
+[assembly: System.Reflection.AssemblyProductAttribute("POO_encapsulamento")]
+[assembly: System.Reflection.AssemblyTitleAttribute("POO_encapsulamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
