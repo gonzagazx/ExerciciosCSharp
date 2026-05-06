@@ -29,7 +29,7 @@ namespace projetoLanchonete
             Console.WriteLine("Tipo: Sobremesa");
             base.exibirResumoProduto();
             Console.WriteLine($"Desconto: {aplicarDesconto()}");
-            Console.WriteLine($"Text");
+            Console.WriteLine();
             
         }
 

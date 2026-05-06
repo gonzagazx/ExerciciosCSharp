@@ -19,7 +19,7 @@ namespace projetoLanchonete
         }
 
         public override void exibirResumoProduto(){
-            Console.WriteLine("tipo: Lanche");
+            Console.WriteLine("Tipo: Lanche");
             base.exibirResumoProduto();
             Console.WriteLine();
             
