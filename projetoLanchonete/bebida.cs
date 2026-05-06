@@ -5,8 +5,24 @@ using System.Threading.Tasks;
 
 namespace projetoLanchonete
 {
-    public class bebida
+    public class Bebida : Produto
     {
-        
+     public Bebida(string nomeProduto, decimal precoBase) : base(nomeProduto, precoBase)
+     {
+     }
+
+     public override decimal CalcularPrecoFinal()
+     {
+        return precoBase;
+     }
+
+    public override void exibirResumoProduto(){
+        Console.WriteLine("Tipo: bebida");
+        base.exibirResumoProduto();
+        Console.WriteLine();
+    }
+
+
+
     }
 }
