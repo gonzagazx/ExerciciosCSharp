@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("projetoPassagensAereas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("atv_POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f584f4da2962b1fed70fb7eb458782758af8f7d1")]
-[assembly: System.Reflection.AssemblyProductAttribute("projetoPassagensAereas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("projetoPassagensAereas")]
+[assembly: System.Reflection.AssemblyProductAttribute("atv_POO")]
+[assembly: System.Reflection.AssemblyTitleAttribute("atv_POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

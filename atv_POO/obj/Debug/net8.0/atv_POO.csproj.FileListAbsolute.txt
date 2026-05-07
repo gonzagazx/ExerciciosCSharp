@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\atv_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\atv_POO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\atv_POO.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\atv_POO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\atv_POO.sourcelink.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\bin\Debug\net8.0\atv_POO.exe
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\bin\Debug\net8.0\atv_POO.deps.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\bin\Debug\net8.0\atv_POO.runtimeconfig.json
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\bin\Debug\net8.0\atv_POO.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\bin\Debug\net8.0\atv_POO.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\atv_POO.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\refint\atv_POO.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\atv_POO.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\atv_POO.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\atv_POO\obj\Debug\net8.0\ref\atv_POO.dll

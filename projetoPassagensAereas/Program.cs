@@ -42,7 +42,7 @@ class Program
             {
                 
                 case 1:
-                if (totalPassagens < 2)
+                if (totalPassagens <= 2)
                 {
                 Console.WriteLine("====== CADASTO DE PASSAGENS ======");
 
