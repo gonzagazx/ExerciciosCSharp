@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\bin\Debug\net8.0\projetoPassagensAereas.exe
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\bin\Debug\net8.0\projetoPassagensAereas.deps.json
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\bin\Debug\net8.0\projetoPassagensAereas.runtimeconfig.json
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\bin\Debug\net8.0\projetoPassagensAereas.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\bin\Debug\net8.0\projetoPassagensAereas.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\projetoPassagensAereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\projetoPassagensAereas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\projetoPassagensAereas.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\projetoPassagensAereas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\projetoPassagensAereas.sourcelink.json
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\projetoPassagensAereas.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\refint\projetoPassagensAereas.dll
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\projetoPassagensAereas.pdb
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\projetoPassagensAereas.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExerciciosCSharp\projetoPassagensAereas\obj\Debug\net8.0\ref\projetoPassagensAereas.dll

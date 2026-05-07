@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projetoPassagensAereas/1.0.0": {
+        "runtime": {
+          "projetoPassagensAereas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projetoPassagensAereas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
